@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello, I'm a Developer from Germany
+
+## I'm working in:
+
+SwiftUI
+React
 
 <!--
 **wmnn/wmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
