@@ -11,6 +11,8 @@
 ## Some Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wmnn&repo=LyricsFluencer)](https://github.com/wmnn/LyricsFluencer.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wmnn&repo=TrackYourself)](https://github.com/wmnn/TrackYourself.git)
+
 <!--
 **wmnn/wmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
