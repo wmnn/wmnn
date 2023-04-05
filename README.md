@@ -2,8 +2,8 @@
 
 ## I'm working in:
 
-SwiftUI
-React
+<img src="https://github.com/wmnn/wmnn/blob/main/icons/swiftui.png" width="30" /> SwiftUI
+<img src="https://github.com/wmnn/wmnn/blob/main/icons/React-icon.svg" width="30" /> React
 
 <!--
 **wmnn/wmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
