@@ -2,8 +2,11 @@
 
 ## I'm working in:
 
-<img src="https://github.com/wmnn/wmnn/blob/main/icons/swiftui.png" width="30" /> SwiftUI
 <img src="https://github.com/wmnn/wmnn/blob/main/icons/React-icon.svg" width="30" /> React
+<img src="https://github.com/wmnn/wmnn/blob/main/icons/typescript.png" width="30" /> Typescript
+<img src="https://github.com/wmnn/wmnn/blob/main/icons/swiftui.png" width="30" /> SwiftUI
+
+
 
 
 ![WMNN GitHub stats](https://github-readme-stats.vercel.app/api?username=wmnn&show_icons=true&theme=github_dark)
