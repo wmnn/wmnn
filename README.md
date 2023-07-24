@@ -1,11 +1,13 @@
 # Hello, I'm a Developer from Germany
 
+<!--
 ## I'm working in:
 
 <img src="https://github.com/wmnn/wmnn/blob/main/icons/React-icon.svg" width="30" /> React
 <img src="https://github.com/wmnn/wmnn/blob/main/icons/typescript.png" width="30" /> Typescript
 <img src="https://github.com/wmnn/wmnn/blob/main/icons/swiftui.png" width="30" /> SwiftUI
-
+*/
+-->
 
 
 
